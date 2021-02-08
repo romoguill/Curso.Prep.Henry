@@ -1,0 +1,5 @@
+* `for`: For es un statement que sirve para hacer un loop (repetir varias) de forma tal que es posible ejecutar partes del código una cierta cantidad de veces hasta que un contador
+    que se declara en el mismo statement llega a un valor determinado. En ese momento se corta el loop.
+* `&&`, `||`, `!`: Estos símbolos se refieren a los operadores lógicos "y" "o" y "negado". Son utilizados para unir distintas expresiones y cuyo resultado siempre es un valor binario.
+    La forma en que se computa el resultado es conocido como álgebra booleana. Suelen utilizarse tablas de verdad para dar con el resultado y existen al igual que en algebra tradicional,
+    operaciones que pueden usarse para reducir las expresiones y hacerlas más sencillas de resolver.
