@@ -1,0 +1,16 @@
+* Variables: Una variable es un elemento donde se almacena información. Esa información puede ser luego utilizada para distintos fines o bien 
+    puede ser alterada y cambiar la información que almacena.
+
+* Strings: Es un tipo de dato, formado por la concatenación (o unión) entre 1 o más caracteres. Este tipo de dato es tratado como un texto y 
+    no puede usarse para operaciones matemáticas.
+
+* Funciones (argumentos, `return`): Las funciones permiten encapsular un algoritmo para poder ser reutilizadas las veces que sean necesarias, 
+    haciendo que el código sea más compacto y claro. Las funciones pueden tener argumentos, los cuales sirven como input para desempeñar adecuadamente
+    su lógica. Por último no necesariamente las funciones deben devolver algún valor, pero con la keyword "return" pueden devolver uno.
+
+* Declaraciones `if`: Esta herramienta permite utilizar la lógica que los humanos usamos diariamente para tomar decisiones. Cada bloque de un "if" permitirá 
+    evaluar si ciertas condiciones estan dadas para que se ejecute una parte del código. En caso contrario se tomará otro camino el puede o no contener
+    más bloques "if"
+
+* Valores booleanos (`true`, `false`): Los valores booleanos son sinónimos de 0 o 1 en código binario. Es un tipo de dato que tiene únicamente 2 valores posibles,
+    lo que lo hace sencillo para identificar alguna variable que sólamente pueda tener 2 estados.
