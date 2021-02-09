@@ -1,0 +1,7 @@
+	* Objetos: Son elementos que permiten almacenar informacion de forma similar a los array, pero con mayores capacidades. Los objetos pueden tener propiedades (variables y datos) y 
+        utilizar metodos. Estas propiedades y metodos se acceden desde el objeto. Sirven para agrupar informacion de forma modular, y permite que el codigo sea escalable.
+	* Propiedades: Son variables asociadas al objeto, como puede ser strings o numeros. Estos proporcionan informacion adicional sobre el objeto.
+	* Métodos: Son funciones que pertenecen al objeto y que pueden ser utilizadas para realizar operaciones o interactuar con sus propiedades u otra partes del codigo.
+	* Bucle `for…in`: En vez de utilizar un for para recorrer los valores de un array, en este caso se recorre cada par de key - value.
+	* Notación de puntos vs notación de corchetes: Estas notaciones sirven para acceder a las propiedades y metodos de los objetos. La notacion de puntos es mas rapida y 
+        sencilla de escribir pero tiene la limitacion que no se pueden usar variables, para ese caso unicamente se puede utilizar la notacion de corchetes.
