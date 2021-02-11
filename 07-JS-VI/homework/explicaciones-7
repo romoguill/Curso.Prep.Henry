@@ -1,0 +1,1 @@
+* Funciones Callback: Basicamente es cuando se pasa como argumento de una funcion, otra funcion previamente declarada. Por ejemplo se utiliza en las funciones de reduce y map.
