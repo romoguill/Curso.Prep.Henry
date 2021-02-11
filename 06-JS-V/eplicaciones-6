@@ -1,0 +1,3 @@
+* `prototype`:  Dado que la creacion de objectos impacta en la memoria necesaria para almacenarlos, existe la posibilidad de declarar los metodos (funciones) en una parte
+    separada del objecto. Esta definicion de metodos puede ser accedida por cualquier instancia de ese mismo objeto.
+* _Constructors_ (de Clases): El constructor es un metodo de una clase y sirve para crear la inicializacion del objeto clase.
